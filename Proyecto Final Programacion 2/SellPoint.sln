@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms", "WindowsForms\WindowsForms.csproj", "{81CDCA41-6F9D-446C-AC18-7E3E89813DE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Librerias_Clases", "ClassLibrary1\Librerias_Clases.csproj", "{72420A35-03E9-49B3-AF5C-A33FA74908F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81CDCA41-6F9D-446C-AC18-7E3E89813DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81CDCA41-6F9D-446C-AC18-7E3E89813DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81CDCA41-6F9D-446C-AC18-7E3E89813DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81CDCA41-6F9D-446C-AC18-7E3E89813DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72420A35-03E9-49B3-AF5C-A33FA74908F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72420A35-03E9-49B3-AF5C-A33FA74908F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72420A35-03E9-49B3-AF5C-A33FA74908F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72420A35-03E9-49B3-AF5C-A33FA74908F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60F528D5-B56E-464C-A741-627DC6BCA5A0}
+	EndGlobalSection
+EndGlobal
